@@ -130,10 +130,11 @@ $ git clone -b master https://github.com/digitalocean/netbox.git
 
 Then install Python's requirements, make sure you do this inside the virtualenv
 
+```
 (netbox)[netbox@netbox-vm-1 netbox]$ pwd
 /opt/netbox/netbox
 (netbox)[netbox@netbox-vm-1 netbox]$ pip install -r requirements.txt
-
+```
 
 # Configuration
 
